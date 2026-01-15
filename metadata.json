@@ -1,0 +1,7 @@
+{
+  "name": "AI 识食 - Advanced Nutrition Vision",
+  "description": "A futuristic AI-powered nutrition tracking application that analyzes food images to provide detailed caloric and macronutrient insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
